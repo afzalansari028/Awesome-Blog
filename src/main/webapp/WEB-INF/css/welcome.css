@@ -1,0 +1,56 @@
+
+.heading {
+    background-color: darkorange;
+    padding: 20px;
+    padding-bottom: 50px;
+}
+
+.heading p {
+    font-weight: 900;
+    font-size: 70px;
+}
+
+.heading input {
+    padding: 20px;
+    border-radius: 50px;
+    background-color: cadetblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+}
+
+.about {
+    padding: 50px;
+}
+
+.about p {
+    text-align: justify;
+}
+
+.footer {
+    background-color: cornflowerblue;
+    padding: 10px;
+    padding-bottom: 70px;
+}
+
+.copyright-child {
+    display: inline-block;
+}
+
+.copyright {
+    float: left;
+    margin-left: 450px;    
+    font-size: 20px;
+}
+
+.icons {
+    margin-top: 19px;
+    float: right;
+    margin-right: 450px;
+    font-size: 25px;
+}
+
+.icons a {
+    color: black;
+    margin-right: 5px;
+}
+
